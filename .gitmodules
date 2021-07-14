@@ -1,0 +1,3 @@
+[submodule "BaseSubModule"]
+	path = BaseSubModule
+	url = https://github.com/yoseoppark/BaseSubModule.git
